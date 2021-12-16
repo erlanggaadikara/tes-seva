@@ -1,0 +1,17 @@
+[
+  {
+    "model": {
+      "modelId": "a3cff5e8-ed55-4df3-a9f5-ce3741a5cff3",
+      "labelYear": "year",
+      "labelValue": "value",
+      "dropValue": "Drop Rate",
+      "year": [
+        { "year": "2017", "value": "Rp 140.000.000", "DropRate": "-0.7%" },
+        { "year": "2018", "value": "Rp 70.000.000", "DropRate": "-0.8%" },
+        { "year": "2019", "value": "Rp 35.000.000", "DropRate": "-0.9%" },
+        { "year": "2020", "value": "Rp 35.000.000", "DropRate": "-1.0%" },
+        { "year": "2021", "value": "Rp 35.000.000", "DropRate": "-1.1%" }
+      ]
+    }
+  }
+]
